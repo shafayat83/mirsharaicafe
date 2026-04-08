@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@700&family=Hind+Siliguri:wght@400;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", ui-serif, Georgia, serif;
+  --font-bengali: "Hind Siliguri", sans-serif;
+
+  --color-cafe-brown: #4a3728;
+  --color-cafe-beige: #d7ccc8;
+  --color-cafe-cream: #f5f5f5;
+  --color-cafe-gold: #c5a059;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-cafe-cream text-cafe-brown font-sans;
+  }
+}
