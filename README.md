@@ -2,7 +2,7 @@
 
 A modern, responsive, and highly animated website for **Mirsarai Cafe**, located in Mirsharai, Bangladesh. This project focuses on providing a premium user experience with smooth scroll-based animations, full accessibility, and a mobile-first design.
 
-**Live Demo:** [https://mirsharaicafe2.netlify.app/](https://mirsharaicafe2.netlify.app/)
+** [ Live Demo ]** { https://mirsharaicafe2.netlify.app/](https://mirsharaicafe2.netlify.app/ }
 
 ---
 
